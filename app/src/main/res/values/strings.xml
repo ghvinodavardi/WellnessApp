@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WellnessApp</string>
+
+    <!-- Daily Check-In -->
+    <string name="daily_check_in_title">Daily Check-In</string>
+    <string name="question_progress">Question %1$d of %2$d</string>
+
+    <!-- Questions -->
+    <string name="q1">I felt emotionally balanced and stable.</string>
+    <string name="q2">I felt interest or pleasure in my daily activities.</string>
+    <string name="q3">I had enough energy to handle daily tasks.</string>
+    <string name="q4">I felt stressed or overwhelmed.</string>
+    <string name="q5">I felt worried, tense, or anxious.</string>
+    <string name="q6">I was able to regulate my emotions.</string>
+    <string name="q7">I was able to concentrate on what I was doing.</string>
+    <string name="q8">My sleep felt restorative.</string>
+    <string name="q9">I felt connected to other people.</string>
+    <string name="q10">I felt capable of dealing with today\'s challenges.</string>
+
+    <!-- Answers -->
+    <string name="answer_0">Not at all</string>
+    <string name="answer_1">Slightly</string>
+    <string name="answer_2">Moderately</string>
+    <string name="answer_3">Quite a lot</string>
+    <string name="answer_4">Extremely</string>
+
+    <!-- Result -->
+    <string name="result_low_title">Low wellbeing</string>
+    <string name="result_low_desc">You may be going through a difficult period.</string>
+    <string name="result_moderate_title">Moderate wellbeing</string>
+    <string name="result_moderate_desc">You\'re managing, but your energy may be limited.</string>
+    <string name="result_good_title">Good wellbeing</string>
+    <string name="result_good_desc">You\'re feeling relatively stable today.</string>
+
+    <!-- Buttons -->
+    <string name="write_journal">Write in Journal</string>
+    <string name="go_home">Go Home</string>
+
+    <!-- Home Screen -->
+    <string name="daily_check_in">Daily Check-In</string>
+    <string name="take_the_test">Take the test</string>
+    <string name="chat_with_ai">Chat with AI</string>
+    <string name="get_support">Get support</string>
+    <string name="calm_library">Calm Library</string>
+    <string name="meditations">Meditations</string>
+    <string name="my_journal">My Journal</string>
+    <string name="track_mood">Track mood</string>
+    <string name="sos_emergency_support">SOS Emergency Support</string>
+    <string name="get_immediate_help">Get immediate help</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_sos">SOS</string>
+    <string name="nav_journal">Journal</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Journal -->
+    <string name="new_journal_entry">New Journal Entry</string>
+    <string name="write_your_thoughts">Write your thoughts...</string>
+    <string name="save_entry">Save Entry</string>
+    <string name="no_entries_for_day">No entries for this day</string>
+    <string name="tap_to_add_thoughts">Tap + to add your thoughts</string>
+    <string name="daily_survey">Daily Survey</string>
+    <string name="result">Result: %1$s</string>
+    <string name="add">Add</string>
+
+    <!-- Calendar -->
+    <string name="day_mo">Mo</string>
+    <string name="day_tu">Tu</string>
+    <string name="day_we">We</string>
+    <string name="day_th">Th</string>
+    <string name="day_fr">Fr</string>
+    <string name="day_sa">Sa</string>
+    <string name="day_su">Su</string>
+    <string name="step">Step %1$d</string>
+
+    <!-- Chat -->
+    <string name="your_assistant">Your Assistant</string>
+    <string name="always_here_to_listen">Always here to listen</string>
+    <string name="back">Back</string>
+    <string name="assistant_typing">Assistant is typing…</string>
+    <string name="type_your_message">Type your message…</string>
+    <string name="send">Send</string>
+
+    <!-- SOS -->
+    <string name="immediate_danger_warning">If you\'re in immediate danger, please call emergency services right away</string>
+    <string name="call_emergency_services">Call Emergency Services</string>
+    <string name="emergency_911">911 - Immediate emergency</string>
+    <string name="call_loved_one">Call a Loved One</string>
+    <string name="reach_out_trusted">Reach out to someone you trust</string>
+    <string name="crisis_hotline">Crisis Hotline</string>
+    <string name="crisis_988">988 - Suicide &amp; Crisis Lifeline</string>
+    <string name="crisis_instructions">Crisis Instructions</string>
+    <string name="panic_attack">Panic Attack</string>
+    <string name="breathing_exercises_grounding">Breathing exercises and grounding</string>
+    <string name="suicidal_thoughts">Suicidal Thoughts</string>
+    <string name="immediate_coping_strategies">Immediate coping strategies</string>
+    <string name="self_harm_urges">Self-Harm Urges</string>
+    <string name="safe_alternatives_support">Safe alternatives and support</string>
+
+    <!-- Panic Attack -->
+    <string name="managing_panic_attack">Managing Panic Attack</string>
+    <string name="step_by_step_guide">Step-by-Step Guide</string>
+    <string name="find_safe_space">Find a safe space</string>
+    <string name="move_to_quiet_location">Move to a quiet, comfortable location where you feel secure</string>
+    <string name="focus_on_breathing">Focus on your breathing</string>
+    <string name="breathe_slowly_4_counts">Breathe in slowly for 4 counts, hold for 4, exhale for 4</string>
+    <string name="ground_yourself">Ground yourself</string>
+    <string name="name_5_things">Name 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste</string>
+    <string name="release_tension">Release tension</string>
+    <string name="tense_relax_muscles">Tense and relax each muscle group, starting from your toes to your head</string>
+    <string name="reach_out">Reach out</string>
+    <string name="if_feelings_persist">If feelings persist, contact a crisis helpline or trusted person</string>
+
+    <!-- Suicidal Thoughts -->
+    <string name="managing_suicidal_thoughts">Managing Suicidal Thoughts</string>
+    <string name="reach_out_crisis">Call or message a trusted friend, family member, or crisis line</string>
+    <string name="remove_harm">Remove harm</string>
+    <string name="ensure_items_moved_away">Ensure any items you could use to hurt yourself are moved away</string>
+    <string name="mindfulness">Mindfulness</string>
+    <string name="take_slow_breaths">Take slow breaths and ground yourself using your senses</string>
+    <string name="write_it_down">Write it down</string>
+    <string name="journal_feelings">Journal your feelings to help process emotions safely</string>
+    <string name="get_help">Get help</string>
+    <string name="contact_healthcare">Contact a healthcare professional or crisis helpline immediately</string>
+
+    <!-- Self-Harm Urges -->
+    <string name="managing_self_harm_urges">Managing Self-Harm Urges</string>
+    <string name="distract">Distract</string>
+    <string name="hold_ice_cube">Hold an ice cube, draw on your skin with a red pen or snap a rubber band</string>
+    <string name="express">Express</string>
+    <string name="use_art_music">Use art, music or writing to express your emotions safely</string>
+    <string name="talk_to_someone">Talk to someone you trust or call a support line</string>
+    <string name="delay">Delay</string>
+    <string name="set_15_minute_timer">Set a 15-minute timer and reassess the urge once it ends</string>
+    <string name="seek_help">Seek help</string>
+    <string name="contact_therapist">Contact a therapist or helpline to discuss your feelings</string>
+
+    <!-- Results -->
+    <string name="great_job">Great job!</string>
+    <string name="feeling_good_today">You\'re feeling good today. Keep the momentum going:</string>
+    <string name="do_something_relaxing">Do something relaxing</string>
+    <string name="meditation_breathing_stretching">Meditation, breathing, stretching</string>
+    <string name="not_feeling_well">It seems you\'re not feeling well.</string>
+    <string name="calm_down">Calm down</string>
+    <string name="breathing_grounding_meditation">Breathing, grounding, meditation</string>
+    <string name="emergency_help">Emergency Help</string>
+
+    <!-- Profile -->
+    <string name="profile">Profile</string>
+    <string name="manage_settings">Manage your settings and preferences</string>
+    <string name="integrations">Integrations</string>
+    <string name="apple_health_google_fit">Apple Health / Google Fit</string>
+    <string name="track_daily_steps">Track daily steps and activity</string>
+    <string name="cycle_tracking">Cycle Tracking</string>
+    <string name="sync_with_flo">Sync with Flo or Health app</string>
+    <string name="app_appearance">App Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="switch_theme">Switch between light and dark theme</string>
+    <string name="language">Language</string>
+
+    <!-- Calm Library -->
+    <string name="calm_library_title">Calm Library</string>
+    <string name="all">All</string>
+    <string name="music">Music</string>
+    <string name="yoga">Yoga</string>
+
+    <!-- Coping Strategy -->
+    <string name="play_audio_instructions">Play Audio Instructions</string>
+</resources>

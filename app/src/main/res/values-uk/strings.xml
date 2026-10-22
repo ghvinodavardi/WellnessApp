@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WellnessApp</string>
+
+    <string name="daily_check_in_title">Перевірка стану</string>
+    <string name="question_progress">Питання %1$d з %2$d</string>
+
+    <string name="q1">Я відчував(ла) емоційну рівновагу та стабільність.</string>
+    <string name="q2">Я відчував(ла) інтерес або задоволення від щоденних справ.</string>
+    <string name="q3">У мене було достатньо енергії для щоденних задач.</string>
+    <string name="q4">Я відчував(ла) стрес або перевантаження.</string>
+    <string name="q5">Я відчував(ла) хвилювання, напругу або тривогу.</string>
+    <string name="q6">Я міг(могла) регулювати свої емоції.</string>
+    <string name="q7">Я міг(могла) зосереджуватися на тому, що роблю.</string>
+    <string name="q8">Мій сон був відновлювальним.</string>
+    <string name="q9">Я відчував(ла) зв\'язок з іншими людьми.</string>
+    <string name="q10">Я відчував(ла), що можу впоратися з викликами дня.</string>
+
+    <string name="answer_0">Зовсім ні</string>
+    <string name="answer_1">Трохи</string>
+    <string name="answer_2">Помірно</string>
+    <string name="answer_3">Досить сильно</string>
+    <string name="answer_4">Надзвичайно сильно</string>
+
+    <string name="result_low_title">Низький рівень благополуччя</string>
+    <string name="result_low_desc">Схоже, вам зараз нелегко.</string>
+    <string name="result_moderate_title">Середній стан</string>
+    <string name="result_moderate_desc">Ви справляєтесь, але ресурс може бути обмежений.</string>
+    <string name="result_good_title">Хороший стан</string>
+    <string name="result_good_desc">Ви почуваєтесь досить стабільно.</string>
+
+    <string name="write_journal">Записати в щоденник</string>
+    <string name="go_home">На головну</string>
+
+    <!-- Home Screen -->
+    <string name="daily_check_in">Перевірка стану</string>
+    <string name="take_the_test">Пройдіть тест</string>
+    <string name="chat_with_ai">Чат з ШІ</string>
+    <string name="get_support">Отримати підтримку</string>
+    <string name="calm_library">Бібліотека спокою</string>
+    <string name="meditations">Медитації</string>
+    <string name="my_journal">Мій щоденник</string>
+    <string name="track_mood">Відстежувати настрій</string>
+    <string name="sos_emergency_support">SOS Екстрена підтримка</string>
+    <string name="get_immediate_help">Отримати негайну допомогу</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Головна</string>
+    <string name="nav_chat">Чат</string>
+    <string name="nav_sos">SOS</string>
+    <string name="nav_journal">Щоденник</string>
+    <string name="nav_profile">Профіль</string>
+
+    <!-- Journal -->
+    <string name="new_journal_entry">Новий запис у щоденник</string>
+    <string name="write_your_thoughts">Напишіть свої думки...</string>
+    <string name="save_entry">Зберегти запис</string>
+    <string name="no_entries_for_day">Немає записів на цей день</string>
+    <string name="tap_to_add_thoughts">Натисніть +, щоб додати свої думки</string>
+    <string name="daily_survey">Щоденне опитування</string>
+    <string name="result">Результат: %1$s</string>
+    <string name="add">Додати</string>
+
+    <!-- Calendar -->
+    <string name="day_mo">Пн</string>
+    <string name="day_tu">Вт</string>
+    <string name="day_we">Ср</string>
+    <string name="day_th">Чт</string>
+    <string name="day_fr">Пт</string>
+    <string name="day_sa">Сб</string>
+    <string name="day_su">Нд</string>
+    <string name="step">Крок %1$d</string>
+
+    <!-- Chat -->
+    <string name="your_assistant">Ваш помічник</string>
+    <string name="always_here_to_listen">Завжди тут, щоб вислухати</string>
+    <string name="back">Назад</string>
+    <string name="assistant_typing">Помічник друкує…</string>
+    <string name="type_your_message">Введіть ваше повідомлення…</string>
+    <string name="send">Відправити</string>
+
+    <!-- SOS -->
+    <string name="immediate_danger_warning">Якщо ви в небезпеці, будь ласка, негайно зателефонуйте в службу екстреної допомоги</string>
+    <string name="call_emergency_services">Викликати службу екстреної допомоги</string>
+    <string name="emergency_911">112 - Негайна екстрена допомога</string>
+    <string name="call_loved_one">Подзвонити близькій людині</string>
+    <string name="reach_out_trusted">Зверніться до того, кому довіряєте</string>
+    <string name="crisis_hotline">Лінія кризи</string>
+    <string name="crisis_988">7333 - Лінія підтримки при суїцидальних думках та кризах</string>
+    <string name="crisis_instructions">Інструкції з кризи</string>
+    <string name="panic_attack">Панічна атака</string>
+    <string name="breathing_exercises_grounding">Дихальні вправи та заземлення</string>
+    <string name="suicidal_thoughts">Суїцидальні думки</string>
+    <string name="immediate_coping_strategies">Негайні стратегії подолання</string>
+    <string name="self_harm_urges">Прагнення до самопошкодження</string>
+    <string name="safe_alternatives_support">Безпечні альтернативи та підтримка</string>
+
+    <!-- Panic Attack -->
+    <string name="managing_panic_attack">Подолання панічної атаки</string>
+    <string name="step_by_step_guide">Покроковий посібник</string>
+    <string name="find_safe_space">Знайдіть безпечне місце</string>
+    <string name="move_to_quiet_location">Перемістіться в тихе, зручне місце, де ви почуваєтесь безпечно</string>
+    <string name="focus_on_breathing">Зосередьтеся на диханні</string>
+    <string name="breathe_slowly_4_counts">Повільно вдихайте на 4 рахунки, затримайте на 4, видихайте на 4</string>
+    <string name="ground_yourself">Заземліть себе</string>
+    <string name="name_5_things">Назвіть 5 речей, які ви бачите, 4 які можете торкнутися, 3 які чуєте, 2 які можете понюхати, 1 яку можете скуштувати</string>
+    <string name="release_tension">Зніміть напругу</string>
+    <string name="tense_relax_muscles">Напружте та розслабте кожну групу м\'язів, починаючи з пальців ніг до голови</string>
+    <string name="reach_out">Зверніться</string>
+    <string name="if_feelings_persist">Якщо почуття не зникають, зверніться до лінії кризи або довіреній особі</string>
+
+    <!-- Suicidal Thoughts -->
+    <string name="managing_suicidal_thoughts">Подолання суїцидальних думок</string>
+    <string name="reach_out_crisis">Подзвоніть або напишіть довіреному другу, члену сім\'ї або лінії кризи</string>
+    <string name="remove_harm">Приберіть шкоду</string>
+    <string name="ensure_items_moved_away">Переконайтеся, що будь-які предмети, якими ви можете пошкодити себе, прибрані</string>
+    <string name="mindfulness">Уважність</string>
+    <string name="take_slow_breaths">Повільно дихайте та заземліть себе, використовуючи свої почуття</string>
+    <string name="write_it_down">Запишіть</string>
+    <string name="journal_feelings">Запишіть свої почуття в щоденник, щоб безпечно обробити емоції</string>
+    <string name="get_help">Отримати допомогу</string>
+    <string name="contact_healthcare">Негайно зверніться до медичного працівника або лінії кризи</string>
+
+    <!-- Self-Harm Urges -->
+    <string name="managing_self_harm_urges">Подолання прагнення до самопошкодження</string>
+    <string name="distract">Відволічіться</string>
+    <string name="hold_ice_cube">Тримайте кубик льоду, малюйте на шкірі червоною ручкою або щілкніть гумовою смужкою</string>
+    <string name="express">Висловіть</string>
+    <string name="use_art_music">Використовуйте мистецтво, музику або письмо, щоб безпечно висловити свої емоції</string>
+    <string name="talk_to_someone">Поговоріть з тим, кому довіряєте, або зателефонуйте на лінію підтримки</string>
+    <string name="delay">Відкладіть</string>
+    <string name="set_15_minute_timer">Встановіть таймер на 15 хвилин і переоцініть прагнення після його закінчення</string>
+    <string name="seek_help">Шукайте допомогу</string>
+    <string name="contact_therapist">Зверніться до терапевта або лінії підтримки, щоб обговорити свої почуття</string>
+
+    <!-- Results -->
+    <string name="great_job">Чудова робота!</string>
+    <string name="feeling_good_today">Ви сьогодні почуваєтесь добре. Продовжуйте рухатись вперед:</string>
+    <string name="do_something_relaxing">Зробіть щось розслабляюче</string>
+    <string name="meditation_breathing_stretching">Медитація, дихання, розтяжка</string>
+    <string name="not_feeling_well">Схоже, ви не почуваєтесь добре.</string>
+    <string name="calm_down">Заспокойтесь</string>
+    <string name="breathing_grounding_meditation">Дихання, заземлення, медитація</string>
+    <string name="emergency_help">Екстрена допомога</string>
+
+    <!-- Profile -->
+    <string name="profile">Профіль</string>
+    <string name="manage_settings">Керуйте налаштуваннями та перевагами</string>
+    <string name="integrations">Інтеграції</string>
+    <string name="apple_health_google_fit">Apple Health / Google Fit</string>
+    <string name="track_daily_steps">Відстежувати щоденні кроки та активність</string>
+    <string name="cycle_tracking">Відстеження циклу</string>
+    <string name="sync_with_flo">Синхронізація з Flo або додатком Health</string>
+    <string name="app_appearance">Зовнішній вигляд додатку</string>
+    <string name="dark_mode">Темний режим</string>
+    <string name="switch_theme">Перемикання між світлою та темною темою</string>
+    <string name="language">Мова</string>
+
+    <!-- Calm Library -->
+    <string name="calm_library_title">Бібліотека спокою</string>
+    <string name="all">Всі</string>
+    <string name="music">Музика</string>
+    <string name="yoga">Йога</string>
+
+    <!-- Coping Strategy -->
+    <string name="play_audio_instructions">Відтворити аудіо інструкції</string>
+</resources>
